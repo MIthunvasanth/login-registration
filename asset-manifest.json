@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MIthunvasanth/ksriet.git/static/css/main.1ed78364.css",
+    "main.js": "/MIthunvasanth/ksriet.git/static/js/main.f3b90157.js",
+    "static/js/787.1257cef4.chunk.js": "/MIthunvasanth/ksriet.git/static/js/787.1257cef4.chunk.js",
+    "index.html": "/MIthunvasanth/ksriet.git/index.html",
+    "main.1ed78364.css.map": "/MIthunvasanth/ksriet.git/static/css/main.1ed78364.css.map",
+    "main.f3b90157.js.map": "/MIthunvasanth/ksriet.git/static/js/main.f3b90157.js.map",
+    "787.1257cef4.chunk.js.map": "/MIthunvasanth/ksriet.git/static/js/787.1257cef4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ed78364.css",
+    "static/js/main.f3b90157.js"
+  ]
+}
